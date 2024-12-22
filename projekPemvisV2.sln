@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projekPemvisV2", "projekPemvisV2\projekPemvisV2.csproj", "{BAD0F872-1D1C-4B96-B5C2-B23EC3F0D821}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "pencatatanGudangV3", "pencatatanGudangV3\pencatatanGudangV3.vdproj", "{1E6D470C-ECB6-4AA9-9A31-1A362AC43498}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "pencatatanGudangV5", "pencatatanGudangV5\pencatatanGudangV5.vdproj", "{E354CA61-E1EA-4C6D-9599-1BBB87644FCC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "pencatatanGudangV6", "pencatatanGudangV6\pencatatanGudangV6.vdproj", "{11B84217-B87D-4E40-B668-432E26670D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD0F872-1D1C-4B96-B5C2-B23EC3F0D821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD0F872-1D1C-4B96-B5C2-B23EC3F0D821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD0F872-1D1C-4B96-B5C2-B23EC3F0D821}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD0F872-1D1C-4B96-B5C2-B23EC3F0D821}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{1E6D470C-ECB6-4AA9-9A31-1A362AC43498}.Debug|Any CPU.ActiveCfg = Debug
+		{1E6D470C-ECB6-4AA9-9A31-1A362AC43498}.Release|Any CPU.ActiveCfg = Release
+		{E354CA61-E1EA-4C6D-9599-1BBB87644FCC}.Debug|Any CPU.ActiveCfg = Debug
+		{E354CA61-E1EA-4C6D-9599-1BBB87644FCC}.Release|Any CPU.ActiveCfg = Release
+		{11B84217-B87D-4E40-B668-432E26670D8F}.Debug|Any CPU.ActiveCfg = Debug
+		{11B84217-B87D-4E40-B668-432E26670D8F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
